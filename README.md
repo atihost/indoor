@@ -1,2 +1,2 @@
 # indoor
- indoor basic
+ indoor basic sem gerenciador com db
