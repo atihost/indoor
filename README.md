@@ -14,3 +14,5 @@
  complete system goes with manager and db mysql or postgress.
  basic free for small businesses.
  also works via web provider success to all.
+
+*.jpg,*.png,*.gif,*.bmp auto basic
